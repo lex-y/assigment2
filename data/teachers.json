@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "first_name": "Bambang",
+        "last_name": "Suprapto",
+        "email": "bambangsuprapto@kode.id",
+        "gender": "male"
+    },
+    {
+         "id": 2, 
+        "first_name": "Rukmana",
+        "last_name": "Fatmawati",
+        "email": "rukmanafatmawati@kode.id",
+        "gender": "female"
+    },
+     {
+        "id": 3, 
+        "first_name": "Butet",
+        "last_name": "Naiborhu",
+        "email": "butetnaiborhu@kode.id",
+        "gender": "female"
+    },
+    {
+        "id": 4, 
+        "first_name": "Yulius",
+        "last_name": "Prawiranegara",
+        "email": "yuliusprawiranegara@kode.id",
+        "gender": "male"
+    }
+]
